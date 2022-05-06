@@ -1,0 +1,22 @@
+{
+  "personeller": [
+    {
+      "id": "2",
+      "isim": "serhat",
+      "yas": 30,
+      "email": "osman@gmail.com"
+    },
+    {
+      "id": "3",
+      "isim": "sinan",
+      "yas": 30,
+      "email": "sinan@gmail.com"
+    },
+    {
+      "isim": "tuğba",
+      "email": "tuğba@gmail.com",
+      "yas": 26,
+      "id": "Bn1WYZV"
+    }
+  ]
+}
